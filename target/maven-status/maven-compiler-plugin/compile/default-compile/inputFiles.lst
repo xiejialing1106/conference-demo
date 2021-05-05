@@ -1,0 +1,9 @@
+C:\gitRepository\conference-demo\src\main\java\com\pluralsight\conferencedemo\controllers\HomeController.java
+C:\gitRepository\conference-demo\src\main\java\com\pluralsight\conferencedemo\models\Session.java
+C:\gitRepository\conference-demo\src\main\java\com\pluralsight\conferencedemo\controllers\SpeakersController.java
+C:\gitRepository\conference-demo\src\main\java\com\pluralsight\conferencedemo\models\Speaker.java
+C:\gitRepository\conference-demo\src\main\java\com\pluralsight\conferencedemo\controllers\SessionsController.java
+C:\gitRepository\conference-demo\src\main\java\com\pluralsight\conferencedemo\ConferenceDemoApplication.java
+C:\gitRepository\conference-demo\src\main\java\com\pluralsight\conferencedemo\repositories\SessionRepository.java
+C:\gitRepository\conference-demo\src\main\java\com\pluralsight\conferencedemo\repositories\SpeakerRepository.java
+C:\gitRepository\conference-demo\src\main\java\com\pluralsight\conferencedemo\config\PersistenceConfiguration.java
